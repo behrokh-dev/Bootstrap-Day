@@ -16,7 +16,7 @@ This project focuses on clean design, smooth layout, and a fully responsive user
 <img width="1899" height="868" alt="Image" src="https://github.com/user-attachments/assets/fcf61c6a-23b2-457d-8ff3-3630633ce70a" />
 <img width="1897" height="874" alt="Image" src="https://github.com/user-attachments/assets/633f6c95-554b-4b83-91d8-171a24323dc5" />
 <img width="1899" height="874" alt="Image" src="https://github.com/user-attachments/assets/206ac576-f2c6-4edf-8a96-2d4b0c5a8000" />
-<img width="1901" height="866" alt="Image" src="https://github.com/user-attachments/assets/ead0f7d3-c223-4531-8da6-a89d3d3ad539" />
+
 
 ## 📌 Features
 
