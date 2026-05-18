@@ -8,7 +8,7 @@ This project focuses on clean design, smooth layout, and a fully responsive user
 👉  https://behrokh-dev.github.io/Bootstrap-Day/
 
 ## 💻 Desktop Preview
-
+<img width="1901" height="874" alt="Image" src="https://github.com/user-attachments/assets/4617c277-a981-4f3b-a551-9721c2193594" />
 
 ## 📌 Features
 
