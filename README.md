@@ -21,9 +21,10 @@ This project focuses on clean design, smooth layout, and a fully responsive user
 <img width="1903" height="870" alt="Image" src="https://github.com/user-attachments/assets/a0a0c6e0-3a6e-4a40-99c5-d9862fc32af3" />
 <img width="1897" height="861" alt="Image" src="https://github.com/user-attachments/assets/bc5a1f33-1083-4083-93c0-cfef5cdf58bd" />
 <img width="1903" height="436" alt="Image" src="https://github.com/user-attachments/assets/32053088-30c4-4df7-a917-df62783898ba" />
+
 ## 📌 Features
 
-- Fully responsive design (mobile, tablet, desktop)
+- Fully responsive design (mobile, tablet, desktop)📱💻
 - Built with Bootstrap framework
 - Custom CSS styling for unique appearance
 - Clean and modern UI
